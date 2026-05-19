@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
-    color: #333;
+    color: #222;
 }
 
 header, footer {
@@ -15,7 +15,7 @@ header, footer {
 }
 
 nav a {
-    color: #fff;
+    color: #ddd;
     text-decoration: none;
     margin: 0 10px;
     font-weight: bold;
