@@ -27,7 +27,7 @@ nav a:hover, nav a.active {
 }
 
 main {
-    max-width: 800px;
+    max-width: 400px;
     margin: 20px auto;
     padding: 1px;
     background: white;
